@@ -1,0 +1,77 @@
+Welcome to WitchDoctorSolutions Support!
+
+We are here to help you with any questions or issues you may have with our products and services. Our support hours are as follows:
+
+Monday to Friday: 7am to 7pm (EST)
+Saturdays: 9am to 1pm (EST)
+Closed on Sundays
+
+You can reach us by phone at 1-800-900-0001 or by email at support@WitchDoctorSolutions.com.
+
+Product and Service Descriptions:
+
+1. MagicMate: A software that helps you manage your daily tasks, appointments, and reminders.
+2. WitchDoctorWeb: A web hosting and design service that offers customized solutions for small businesses.
+3. SpellChecker: A proofreading and editing service that helps you perfect your documents and emails.
+4. WizardWeb: A web development service that creates customized websites for small businesses.
+5. EnchantedEmail: An email marketing service that helps you create and send newsletters and promotional emails.
+
+Troubleshooting Guide:
+
+1. MagicMate:
+	* Common issues: software not launching, data loss, password reset.
+	* Solutions: check system requirements, restore data from backup, reset password.
+2. WitchDoctorWeb:
+	* Common issues: website not loading, hosting issues, design errors.
+	* Solutions: check website URL, contact hosting provider, request design changes.
+3. SpellChecker:
+	* Common issues: proofreading errors, formatting issues, missing content.
+	* Solutions: check spelling and grammar, format text and images, add missing content.
+4. WizardWeb:
+	* Common issues: website not functioning, design issues, technical errors.
+	* Solutions: check website functionality, request design changes, troubleshoot technical issues.
+5. EnchantedEmail:
+	* Common issues: email not sending, content errors, formatting issues.
+	* Solutions: check email content, format text and images, troubleshoot technical issues.
+
+FAQs:
+
+1. MagicMate:
+	* Q: How do I reset my password?
+	* A: Click on the "Forgot Password" link on the login page and follow the prompts.
+	* Q: Can I restore my data from a backup?
+	* A: Yes, you can restore your data from a backup by contacting our support team.
+2. WitchDoctorWeb:
+	* Q: How do I transfer my website to a new hosting provider?
+	* A: Contact our support team to assist you with the transfer process.
+	* Q: Can I change my website's design?
+	* A: Yes, you can request design changes by contacting our support team.
+3. SpellChecker:
+	* Q: How do I check for proofreading errors?
+	* A: Use the built-in spell checker to identify and correct errors.
+	* Q: Can I format my text and images?
+	* A: Yes, you can format text and images using the tools provided.
+4. WizardWeb:
+	* Q: How do I troubleshoot technical issues with my website?
+	* A: Contact our support team to assist you with troubleshooting and resolving technical issues.
+	* Q: Can I change my website's design?
+	* A: Yes, you can request design changes by contacting our support team.
+5. EnchantedEmail:
+	* Q: How do I check for content errors?
+	* A: Use the built-in spell checker to identify and correct errors.
+	* Q: Can I format my email content?
+	* A: Yes, you can format your email content using the tools provided.
+
+Knowledge Base:
+
+Search our database of articles and tutorials to find detailed information about our products and services.
+
+Support Request Form:
+
+If you need assistance with any of our products or services, please fill out the support request form and a member of our team will get back to you as soon as possible.
+
+Update and Maintenance Schedule:
+
+Check this page regularly for scheduled maintenance and updates for each product and service.
+
+We hope this support documentation helps you with any questions or issues you may have with our products and services. If you need further assistance, please do not hesitate to contact us.
