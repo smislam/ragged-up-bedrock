@@ -12,7 +12,7 @@ Retrieval Augmented Generation (RAG) Architecture.
 * Creates an S3 Bucket for document storage
 * Creates an AWS Lambda function that loads a document from S3 (Using S3 events) and makes it available to the GenAI Model for RAG.
 * Uses Amazon Titan Embeddings G1 - Text model for parsing document
-* Uses AWS OpenSearch as a Vector Database
+* Uses AWS OpenSearch as a Vector Database -- `Note: please check the OpenSearch pricing to limit your cost.`
 * Uses Anthropic's Claude 3 Sonnet model for chat
 * Creates an AWS API Gateway endpoint to expose the API
 
