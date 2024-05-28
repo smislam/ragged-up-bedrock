@@ -6,7 +6,7 @@ import { S3EventSource } from 'aws-cdk-lib/aws-lambda-event-sources';
 import { NodejsFunction } from 'aws-cdk-lib/aws-lambda-nodejs';
 import { RetentionDays } from 'aws-cdk-lib/aws-logs';
 import { Bucket, BucketEncryption, EventType } from 'aws-cdk-lib/aws-s3';
-import { BedrockFoundationModel, KnowledgeBase, S3DataSource } from '@cdklabs/generative-ai-cdk-constructs/lib/cdk-lib/bedrock';
+import { BedrockFoundationModel, ChunkingStrategy, KnowledgeBase, S3DataSource } from '@cdklabs/generative-ai-cdk-constructs/lib/cdk-lib/bedrock';
 import { Construct } from 'constructs';
 import path = require('path');
 import { LambdaRestApi } from 'aws-cdk-lib/aws-apigateway';
@@ -35,7 +35,10 @@ export class RaggedUpBedrockStack extends cdk.Stack {
     const datasource = new S3DataSource(this, 'rag-ds', {
         dataSourceName: "ragged-up-bedrock",
         bucket,
-        knowledgeBase
+        knowledgeBase,
+        chunkingStrategy: ChunkingStrategy.FIXED_SIZE,
+        maxTokens: 300,
+        overlapPercentage: 20
     });
 
     const ragLoader = new NodejsFunction(this, 'rag-loader', {
